@@ -1,0 +1,21 @@
+{
+  "name": "com.ashty.sidescrollerplayermovement",
+  "version": "1.0.0",
+  "displayName": "Ashtys Sidescroller Player Movement",
+  "description": "Made to controll a object in an sidescroller environment.",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "Player",
+    "Movement",
+    "Sidescroller"
+  ],
+  "author": {
+    "name": "Amar Civic",
+    "email": "",
+    "url": ""
+  }
+}
